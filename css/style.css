@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    height: 90vh;
+    width: 99%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.content{
+    background-color: black;
+    padding: 14px;
+}
+
+.btn{
+    padding: 14px;
+    border-radius: 5%;
+    font-size: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+    border: 2px solid black;
+}
